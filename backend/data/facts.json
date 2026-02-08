@@ -1,0 +1,21 @@
+{
+    "full_name": "SATYAM NAG",
+    "name": "SATYAM",
+    "current_role": "Agentic AI Engineer",
+    "location": "Odisha, India",
+    "email": "imsatyamnag@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/satyamnag/",
+    "specialties": [
+      "Agentic AI Frameworks",
+      "AWS, GCP and Azure Cloud Services",
+      "Django and FastAPI Web Frameworks"
+    ],
+    "years_experience": 6,
+    "education": [
+      {
+        "degree": "Bachelor of Science in Mathematics",
+        "institution": "Government Autonomous College, Rourkela",
+        "year": "2018"
+      }
+    ]
+  }
